@@ -4,5 +4,6 @@ public class Main {
 
     public static void main(String[] args) {
         // Nothing to do now
+        System.out.print("Hello world");
     }
 }
